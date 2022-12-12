@@ -1,3 +1,5 @@
+Personal note : Thanks to this driver , cloud gaming app like Shadow is able to recognize the PowerA Xbox ONE pad on a Raspberry Pi 4
+
 # Updated Xpad Linux Kernel Driver
 Driver for the Xbox/ Xbox 360/ Xbox 360 Wireless/ Xbox One Controllers
 
